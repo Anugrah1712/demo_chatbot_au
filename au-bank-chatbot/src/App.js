@@ -10,7 +10,6 @@ function App() {
           Welcome to the AI-powered banking assistant.
         </p>
       </div>
-
       <Chatbot
         config={{
           API_BASE_URL: "https://api.genaitechsol.shop",
