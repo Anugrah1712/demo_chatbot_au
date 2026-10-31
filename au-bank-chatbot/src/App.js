@@ -1,5 +1,5 @@
 import "./App.css";
-import { Chatbot } from "gts-chatbot";
+import { Chatbot } from "gts-chatbot-au_bank";
 
 function App() {
   return (
